@@ -15,7 +15,7 @@
   },
   "auth": {
     "secret": "AUTH_SECRET",
-    "tokenExpiresIn": "AUTH_TOKEN_EXPIRES_IN",
+    "expiresIn": "AUTH_TOKEN_EXPIRES_IN",
     "cookieMaxAge": "AUTH_COOKIE_MAX_AGE",
     "saltRounds": "AUTH_SALT_ROUNDS"
   }
